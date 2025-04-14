@@ -1,4 +1,4 @@
-# 🐝 Hive Log & Crop Calendar API
+# 🐝 Humble Bee - Hive Log & Crop Calendar API
 
 A simple RESTful API built with Node.js, Express.js, and MongoDB Atlas to manage beehive logs and crop flowering calendars, along with nearby crop opportunity discovery.
 
